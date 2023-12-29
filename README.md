@@ -18,6 +18,10 @@ Watermarking can be divided into two categories: one is to add watermarks to alr
 
 ## watermarking for LLMs
 ### watermark during training
+[Watermarking Classification Dataset for Copyright Protection](https://arxiv.org/pdf/2305.13257.pdf) </br></br>
+[Did You Train on My Dataset? Towards Public Dataset Protection with Clean-Label Backdoor Watermarking](https://arxiv.org/pdf/2303.11470.pdf) </br> </br>
+[Coprotector: Protect open-source code against unauthorized training usage with data poisoning.](https://dl.acm.org/doi/10.1145/3485447.3512225)
+[CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models](https://arxiv.org/pdf/2308.14401.pdf)
 
 ### watermark during logits generation
 [A Watermark for Large Language Models](https://proceedings.mlr.press/v202/kirchenbauer23a.html)  </br></br>
@@ -35,6 +39,8 @@ Watermarking can be divided into two categories: one is to add watermarks to alr
 
 
 ### watermark during sampling token
+[Undetectable Watermarks for Language Models](https://arxiv.org/pdf/2306.09194.pdf) </br></br>
+[Robust distortion-free watermarks for language models](https://arxiv.org/pdf/2307.15593.pdf) </br></br>
 
 
 
